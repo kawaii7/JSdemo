@@ -1,0 +1,71 @@
+body, ul, li, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #333
+}
+
+.wrapper {
+    width: 360px;
+    margin: 100px auto;
+    border-radius: 10px;
+    background: #fff;
+    overflow: hidden;
+}
+
+.item {
+    border-bottom: 1px solid #ccc;
+    list-style-type: none;
+}
+
+.item ul {
+    list-style-type: none;
+}
+
+.title {
+    position: relative;
+    padding: 10px 40px;
+
+}
+
+.title .iconfont {
+    position: absolute;
+    top: 50%;
+    margin-top: -8px;
+}
+
+.title .iconfont:nth-child(1) {
+    left: 15px;
+}
+
+.title .iconfont:nth-child(2) {
+    right: 15px;
+    transition: transform 0.3s ease;
+
+}
+
+.item ul {
+    background: #888;
+    display: none;
+}
+
+.item a {
+    display: block;
+    color: #eee;
+    text-decoration: none;
+    padding: 10px 40px;
+}
+
+.item a:hover {
+    background: #b63b4b;
+}
+
+.active {
+    color: #b63b4b;
+}
+
+.active .icon-iconfontzhizuobiaozhun023129 {
+    transform: rotate(180deg);
+}
