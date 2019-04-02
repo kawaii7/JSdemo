@@ -15,6 +15,6 @@
 
 ![城市选取及互换](https://github.com/kawaii7/JSdemo/blob/master/images/%E5%9F%8E%E5%B8%82%E9%80%89%E5%8F%96%E5%8F%8A%E4%BA%92%E6%8D%A2.gif)
 
-4.[手风琴菜单](https://github.com/kawaii7/JSdemo/tree/master/%E6%89%8B%E9%A3%8E%E7%90%B4%E8%8F%9C%E5%8D%95/)
+4.[手风琴菜单](https://kawaii7.github.io/JSdemo/%E6%89%8B%E9%A3%8E%E7%90%B4%E8%8F%9C%E5%8D%95/)
 
 ![手风琴菜单](https://github.com/kawaii7/JSdemo/blob/master/images/%E6%89%8B%E9%A3%8E%E7%90%B4%E8%8F%9C%E5%8D%95.gif)
