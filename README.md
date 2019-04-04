@@ -18,3 +18,7 @@
 4.[手风琴菜单](https://kawaii7.github.io/JSdemo/%E6%89%8B%E9%A3%8E%E7%90%B4%E8%8F%9C%E5%8D%95/)
 
 ![手风琴菜单](https://github.com/kawaii7/JSdemo/blob/master/images/%E6%89%8B%E9%A3%8E%E7%90%B4%E8%8F%9C%E5%8D%95.gif)
+
+5.[淘宝商品放大镜](https://kawaii7.github.io/JSdemo/%E6%B7%98%E5%AE%9D%E5%95%86%E5%93%81%E6%94%BE%E5%A4%A7%E9%95%9C/)
+
+![淘宝商品放大镜](https://github.com/kawaii7/JSdemo/blob/master/images/%E6%B7%98%E5%AE%9D%E5%95%86%E5%93%81%E6%94%BE%E5%A4%A7%E9%95%9C.gif)
