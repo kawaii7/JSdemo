@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+
+.wrapper {
+    font-size: 0;
+}
+
+.left, .right {
+    display: inline-block;
+    overflow: hidden;
+    width: 400px;
+    height: 400px;
+    border: 1px solid #ccc;
+}
+
+.left {
+    position: relative;
+}
+
+.left img {
+    width: 400px;
+    height: 400px;
+}
+
+.left .hover {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+    background-image: url("./image/hover.png");
+    cursor: move;
+}
+
+.right {
+    display: none;
+    position: relative;
+}
+
+.right .large {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
